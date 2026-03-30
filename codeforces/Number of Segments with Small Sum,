@@ -1,0 +1,15 @@
+n,x = map(int,input().split())
+a = list(map(int,input().split()))
+
+res = l = 0
+curr = 0
+
+for i in range(n):
+    curr += a[i]
+    while curr > x:
+        curr -= a[l]
+        l += 1
+    
+    res += i - l + 1
+
+print(res)
