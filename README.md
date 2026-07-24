@@ -72,6 +72,6 @@ Feel free to fork this, use the solutions to study, or reach out to me if you fi
 
 <br>
 
-[Connect with me on LinkedIn](https://linkedin.com/in/hosama-adem) • [View my Portfolio](https://hosamaadem-portfolio-6ujt.vercel.app)
+[Connect with me on LinkedIn](https://linkedin.com/in/hosama-adem) • [View my Portfolio](https://hosamaadem-portfolio.vercel.app/)
 
 </div>
