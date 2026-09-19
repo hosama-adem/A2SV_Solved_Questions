@@ -1,0 +1,15 @@
+t = int(input())
+
+for _ in range(t):
+    n, k = map(int, input().split())
+    a = list(map(int, input().split()))
+
+    s = set(a)
+    ok = False
+
+    for x in a:
+        if x + k in s:
+            ok = True
+            break
+
+    print("YES" if ok else "NO")
